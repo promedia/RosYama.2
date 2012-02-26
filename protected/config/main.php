@@ -11,7 +11,7 @@ $dbconfig = require_once(dirname(__FILE__) . '/../../appConfig/db.php');
 
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
-	'name'=>'Rosyama',
+	'name'=>'Teron.ru - Rosyama',
 	'language'=>'ru',
 	'defaultController'=>'holes',
 	// preloading 'log' component

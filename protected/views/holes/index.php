@@ -234,8 +234,8 @@ EOD
 		<?php $this->endWidget(); ?>
 </div>
 
-<?php $this->widget('application.widgets.news.newsWidget'); ?>
-<?php $this->widget('application.widgets.social.socialWidget'); ?>
+<?php /* $this->widget('application.widgets.news.newsWidget');*/ ?>
+<?php /* $this->widget('application.widgets.social.socialWidget'); */ ?>
 
 </div>
 
